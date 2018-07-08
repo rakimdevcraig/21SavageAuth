@@ -1,4 +1,15 @@
+## Installation
+
+1. Clone repo
+2. run `npm install`
+
+## Usage
+
+1. run `node server.js`
+2. Navigate to `localhost:8080`
 21 Savage secure fan site
+
+![pic](pic.jpg)
 
 I wanted to make a secure site for 21 Savage fans that made users make an account and post their favorite song by 21 Savage. I added authorization to minimize the amount of trolls on this website.
 
@@ -16,17 +27,6 @@ Lessons Learned: I created an express server, learned to execute CRUD operations
 
 Examples:
 Take a look at these couple examples that I have in my own portfolio:
-
-
-## Installation
-
-1. Clone repo
-2. run `npm install`
-
-## Usage
-
-1. run `node server.js`
-2. Navigate to `localhost:8080`
 
 ## Credit
 

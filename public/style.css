@@ -13,6 +13,11 @@ img{
   border:  4px dashed black;
 }
 
+.loginpic{
+  margin: 0 auto;
+  display: block;
+}
+
 .kanye{
   background-image: url(img/kanyeShrug.jpg);
   background-size: cover;
