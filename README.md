@@ -13,8 +13,6 @@
 
 I wanted to make a secure site for 21 Savage fans that made users make an account and post their favorite song by 21 Savage. I added authorization to minimize the amount of trolls on this website.
 
-Link to project:
-
 How It's Made:
 Tech used: HTML, CSS, Javascript, Node, Express, Mongo, Embedded Javascript, Passport
 
